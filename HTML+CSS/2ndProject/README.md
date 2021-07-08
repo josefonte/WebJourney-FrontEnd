@@ -8,6 +8,7 @@ This repository has my solution to a challenge on [Frontend Mentor](https://www.
 To build this I used HTML & CSS.
 
 ## My solution!
+### Desktop Version
 ![mysolution](./design/mysolutionscreenshot.png)
 
 ### Things I practiced
