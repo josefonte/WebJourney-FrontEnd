@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-This repository has my solution to a challenge on <a href="http://frontendmentor.io" target="_blank">Frontend Mentor</a> [Frontend Mentor](https://www.frontendmentor.io).
+This repository has my solution to a challenge on <a href="http://frontendmentor.io" target="_blank">Frontend Mentor</a>.
 To build this I used HTML & CSS.
 
 ## My solution!
