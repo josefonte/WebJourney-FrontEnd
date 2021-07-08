@@ -1,11 +1,12 @@
-# Frontend Mentor - Stats preview card component Challenge
-### Desktop Version
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+# Frontend Mentor - Stats preview card component Challenge
 ## Welcome! 👋
 
 This repository has my solution to a challenge on <a href="http://frontendmentor.io" target="_blank">Frontend Mentor</a>.
 To build this I used HTML & CSS.
+## Model Given
+### Desktop Version 
+![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## My solution!
 ### Desktop Version
