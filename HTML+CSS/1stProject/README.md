@@ -5,5 +5,5 @@ As this is my very first contact with HTML and CSS, the goals for this were not 
 
 ### In action
 ---
-![ss](https://raw.githubusercontent.com/josef8/WebJourney-FrontEnd-/main/HTML%2BCSS/1stProject/images/3rd.gif)
+![](https://raw.githubusercontent.com/josef8/WebJourney-FrontEnd-/main/HTML%2BCSS/1stProject/images/3rd.gif)
 
