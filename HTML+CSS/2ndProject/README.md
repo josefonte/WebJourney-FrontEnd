@@ -8,7 +8,7 @@ This repository has my solution to a challenge on [Frontend Mentor](https://www.
 To build this I used HTML & CSS.
 
 ## My solution!
-![mysolution](./design/mysolutionscreenshoot.jpg)
+![mysolution](./design/mysolutionscreenshot.png)
 
 ### Things I practiced
 - Flexbox 
