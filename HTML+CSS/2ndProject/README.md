@@ -1,5 +1,5 @@
-# Frontend Mentor - Stats preview card component
-### Desktop version
+# Frontend Mentor - Stats preview card component Challenge
+### Desktop Version
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
