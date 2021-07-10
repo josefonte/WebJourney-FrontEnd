@@ -11,12 +11,15 @@ To build this I used HTML & CSS.
 ## My solution!
 ### Desktop Version
 ![mydesktopsolution](./design/mysolutionscreenshot.png)
-
+<p float="left">
+  <img src="./design/mysolutionscreenshot.png" width="100" />
+  <img src="./design/mobilesolution.jpg" width="100" /> 
+</p>
 ### Mobile Version
-![mydesktopsolution](./images/mobilesolution.jpg)
+![mydesktopsolution](./design/mobilesolution.jpg)
 
 ## In Action 🎥
-![inaction](https://github.com/josef8/WebJourney-FrontEnd-/blob/main/HTML%2BCSS/2ndProject/images/2021-07-10%2022-27-34.gif)
+![inaction](https://github.com/josef8/WebJourney-FrontEnd-/blob/main/HTML%2BCSS/2ndProject/design/solution.gif)
 
 ### Things I practiced
 - Variables
