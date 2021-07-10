@@ -6,21 +6,17 @@ This repository has my solution to a challenge on <a href="http://frontendmentor
 To build this I used HTML & CSS.
 ## Model Given
 ### Desktop & Mobile Version 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 <p float="left">
-  <img src="./design/desktop-preview.jpg" width="800" />
+  <img src="./design/desktop-design.jpg" width="800" />
   <img src="./design/mobile-design.jpg" width="200" /> 
 </p>
 
 ## My solution!
-### Desktop Version
-![mydesktopsolution](./design/mysolutionscreenshot.png)
+### Desktop & Mobile Version
 <p float="left">
   <img src="./design/mysolutionscreenshot.png" width="800" />
   <img src="./design/mobilesolution.jpg" width="200" /> 
 </p>
-### Mobile Version
-![mydesktopsolution](./design/mobilesolution.jpg)
 
 ## In Action 🎥
 ![inaction](https://github.com/josef8/WebJourney-FrontEnd-/blob/main/HTML%2BCSS/2ndProject/design/solution.gif)
