@@ -8,7 +8,7 @@ To build this I used HTML & CSS.
 ### Desktop & Mobile Version 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 <p float="left">
-  <img src="./design/desktop-preview.jpg" width="700" />
+  <img src="./design/desktop-preview.jpg" width="800" />
   <img src="./design/mobile-design.jpg" width="200" /> 
 </p>
 
@@ -16,7 +16,7 @@ To build this I used HTML & CSS.
 ### Desktop Version
 ![mydesktopsolution](./design/mysolutionscreenshot.png)
 <p float="left">
-  <img src="./design/mysolutionscreenshot.png" width="700" />
+  <img src="./design/mysolutionscreenshot.png" width="800" />
   <img src="./design/mobilesolution.jpg" width="200" /> 
 </p>
 ### Mobile Version
@@ -33,9 +33,10 @@ To build this I used HTML & CSS.
 - Responsive design implementation (media queries)
 - Building by following a given design 
 
-### Things I'll learn next projects
+### Things I want to learn on my next projects
 - Get better at responsive design implementation
 - Learn how to use a grid 
 - Experiment with pseudoelements, animations & transitions
+
 
 **Thanks for checking this out !** 🦧
