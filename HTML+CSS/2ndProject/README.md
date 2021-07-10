@@ -2,7 +2,7 @@
 # Frontend Mentor - Stats preview card component Challenge
 ## Welcome! 👋
 
-This repository has my solution to a challenge on <a href="http://frontendmentor.io" target="_blank">Frontend Mentor</a>.
+This repository has my solution of a challenge on <a href="http://frontendmentor.io" target="_blank">Frontend Mentor</a>.
 To build this I used HTML & CSS.
 ## Model Given
 ### Desktop & Mobile Version 
