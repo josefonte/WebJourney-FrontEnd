@@ -13,10 +13,10 @@ To build this I used HTML & CSS.
 ![mydesktopsolution](./design/mysolutionscreenshot.png)
 
 ### Mobile Version
-![mydesktopsolution](./design/mobilesolution.jpg)
+![mydesktopsolution](./images/mobilesolution.jpg)
 
 ## In Action 🎥
-![inaction](./design/2021-07-10 22-27-34.gif)
+![inaction](.images/2021-07-10 22-27-34.gif)
 
 ### Things I practiced
 - Flexbox 
