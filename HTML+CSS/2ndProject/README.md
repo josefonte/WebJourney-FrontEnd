@@ -12,8 +12,8 @@ To build this I used HTML & CSS.
 ### Desktop Version
 ![mydesktopsolution](./design/mysolutionscreenshot.png)
 <p float="left">
-  <img src="./design/mysolutionscreenshot.png" width="100" />
-  <img src="./design/mobilesolution.jpg" width="100" /> 
+  <img src="./design/mysolutionscreenshot.png" width="500" />
+  <img src="./design/mobilesolution.jpg" width="500" /> 
 </p>
 ### Mobile Version
 ![mydesktopsolution](./design/mobilesolution.jpg)
