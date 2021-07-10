@@ -16,7 +16,7 @@ To build this I used HTML & CSS.
 ![mydesktopsolution](./images/mobilesolution.jpg)
 
 ## In Action 🎥
-![inaction](./images/2021-07-10 22-27-34.gif)
+![inaction](https://github.com/josef8/WebJourney-FrontEnd-/blob/main/HTML%2BCSS/2ndProject/images/2021-07-10%2022-27-34.gif)
 
 ### Things I practiced
 - Variables
