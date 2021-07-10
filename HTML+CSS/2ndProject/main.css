@@ -2,6 +2,10 @@
     --white: hsl(0, 0%, 100%);
     --whitetrans1: hsla(0, 0%, 100%, 0.75);
     --whitetrans2: hsla(0, 0%, 100%, 0.6);
+
+    --verydarkblue :hsl(233, 47%, 7%);
+    --darkbluedesaturated :hsl(244, 38%, 16%);
+    --softviolet : hsl(277, 64%, 61%);
 }
 
 html {
@@ -9,104 +13,153 @@ html {
 }
 
 body {
-    background-color:hsl(233, 47%, 7%);
+    background-color: var(--verydarkblue);
     display: flex;
     flex-direction:column;
     justify-content: center;
     align-items: center;
-    
+    color:var(--white);
 }
 
 
-#card{
-    background-color:hsl(244, 38%, 16%);
-    width: 1050px;
-    height: 425px;
-    border-radius: 7px; 
-    margin-top: 100px;   
+#card {
+    background-color: var(--darkbluedesaturated);
+    border-radius: 0.625em;
+    margin: 3rem 3rem;
     display: flex;
-    justify-content: left;
-    background-image: url(images/image-header-desktop.jpg);
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-    background-position: right;
-
+    max-width: 1050px;
+    min-width: 350px;
+    height: 420px;
 }
 
-#leftpart {
-    width: 51%;
-    display: flex;
-    align-items: center;
-
-}
-
-#leftpart-content{
-    width: 370px;
-    height: 300px;
-    margin-left: 65px;;
+#content {
     display: flex;
     flex-direction: column;
-    align-items: left;
-    justify-content: space-between;
-
+   // justify-content: center;
+    align-items: left ;
+    padding: 50px 90px 10px 70px;
 }
 
-#leftpart-content #title{
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size: 34px;
-    color: var(--white);
-}
-
-#leftpart-content #title #accent {
-    color:  hsl(277, 64%, 61%);
-}
-
-#leftpart-content #description {
-    width: 90%;
+h1, p, ul{
     font-family: 'Inter';
     font-weight: 400;
-    font-size: 14px;
-    line-height: 23px;
-    color: var(--whitetrans1);
-    padding-bottom: 25px;
+} 
+
+h1{
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+h1 > span {
+    color: var(--softviolet);
 }
 
-#numbers{
-    width: 89%;
-    margin-top: 20px;
-    color: white;
+p{
+    font-size: 15px;
+    line-height: 25px;
+    color:var(--whitetrans1);
+}
+
+ul { 
+    list-style: none;
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: space-between;
+    align-items: center;
+    margin: 30px 40px 20px 0px;
+    padding:0;
 }
 
-.item {
-    display: flex;
+li{
+    font-size:25px;
+    font-weight: 700;
+    display:flex;
     flex-direction: column;
 }
 
-.item .stats {
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size:23px;
-    margin-bottom: 3px;
-    color: white;
-}
-
-.item .names{
+li > span{
     font-family: 'Lexend Deca';
     font-weight: 400;
-    font-size: 12px;
+    padding-top: 2px;
+    color: var(--whitetrans2);    
     letter-spacing: 1px;
-    text-transform: uppercase;
-    color: var(--whitetrans2);
+    font-size: 12px;
 }
 
-#rightpart {
-    background-color: hsla(277, 97%, 25%, 0.424);
-    border-radius: 0px 7px 7px 0px;
-    width: 515px;
+#image {
+    background-color: var(--softviolet);
+    border-radius: 0 0.625em 0.625em 0;
+    height: 100%;
+    width: auto;
+}
+
+#image img {
+    height: 100%;
+    max-width: auto;
+    border-radius: 0 0.625em 0.625em 0;
+    opacity: 40%;
+}
+
+
+@media   (max-width: 1095px) {
+
+    body{
+        text-align: center;
+    }
+    #card{
+        max-width: 990px;
+        height: auto;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #content {
+        margin: 40px 25px;
+        padding: 0;
+        max-width: 450px ;
+    }
+    
+    p{
+        font-size: 1.1rem;
+        line-height: 32px;
+    }
+    ul{
+        margin: 20px 30px 0 30px;
+    }
+
+    li{
+        margin: 20px 15px;
+    }
+    #image {
+        width: 100%;
+        height: auto;
+        border-radius: 0.625em 0.625em 0 0;
+    }
+    
+    #image img {
+        width: 100%;
+        height: auto;
+        border-radius: 0.625em 0.625em 0 0;
+    }
+
+}
+
+@media (max-width: 540px){
+
+    #card{
+        min-width: 330px;
+    }
+
+    ul{
+        justify-content: center;
+        align-content: center;
+    }
+    
+    li{
+        margin: 20px 60px;
+    }
 }
 
 .attribution { 
