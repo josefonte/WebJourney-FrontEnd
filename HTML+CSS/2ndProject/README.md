@@ -10,7 +10,11 @@ To build this I used HTML & CSS.
 
 ## My solution!
 ### Desktop Version
-![mysolution](./design/mysolutionscreenshot.png)
+![mydesktopsolution](./design/mysolutionscreenshot.png)
+### Mobile Version
+![mydesktopsolution](./design/mobilesolution.png)
+##In Action 🎥
+![inaction](./design/2021-07-10 22-27-34.gif)
 
 ### Things I practiced
 - Flexbox 
