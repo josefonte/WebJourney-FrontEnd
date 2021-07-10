@@ -16,13 +16,19 @@ To build this I used HTML & CSS.
 ![mydesktopsolution](./images/mobilesolution.jpg)
 
 ## In Action 🎥
-![inaction](.7images/2021-07-10 22-27-34.gif)
+![inaction](./images/2021-07-10 22-27-34.gif)
 
 ### Things I practiced
+- Variables
 - Flexbox 
-- Background colors and images
+- Colors and image with filter 
 - Importing fonts
-- Responsive design implementation
-- Building following a given design and its design marks
+- Responsive design implementation (media queries)
+- Building by following a given design 
+
+### Things I'll learn next projects
+- Get better at responsive design implementation
+- Learn how to use a grid 
+- Experiment with pseudoelements, animations & transitions
 
 **Thanks for checking this out !** 🦧
