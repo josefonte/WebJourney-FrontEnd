@@ -11,9 +11,11 @@ To build this I used HTML & CSS.
 ## My solution!
 ### Desktop Version
 ![mydesktopsolution](./design/mysolutionscreenshot.png)
+
 ### Mobile Version
-![mydesktopsolution](./design/mobilesolution.png)
-##In Action 🎥
+![mydesktopsolution](./design/mobilesolution.jpg)
+
+## In Action 🎥
 ![inaction](./design/2021-07-10 22-27-34.gif)
 
 ### Things I practiced
