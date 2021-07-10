@@ -16,7 +16,7 @@ To build this I used HTML & CSS.
 ![mydesktopsolution](./images/mobilesolution.jpg)
 
 ## In Action 🎥
-![inaction](.images/2021-07-10 22-27-34.gif)
+![inaction](.7images/2021-07-10 22-27-34.gif)
 
 ### Things I practiced
 - Flexbox 
